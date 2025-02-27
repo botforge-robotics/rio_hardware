@@ -67,21 +67,3 @@ This repository contains the Bill of Materials (BOM) for the RIO robot hardware 
 ### 💰 Total Cost: ₹ 15,577/-
 
 </div>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/🚀%20COMING%20SOON-2024-brightgreen?style=for-the-badge" width="300" alt="Coming Soon"/>
-</p>
-
-<!-- OR -->
-
-<h1 align="center">
-    <img src="https://img.shields.io/badge/🚀%20COMING%20SOON-2024-brightgreen?style=for-the-badge" width="400" alt="Coming Soon"/>
-</h1>
-
-<!-- OR a custom HTML banner -->
-
-<p align="center">
-    <a href="#" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/🚀%20COMING%20SOON-2024-brightgreen?style=for-the-badge" width="500" height="70" alt="Coming Soon"/>
-    </a>
-</p>
