@@ -25,7 +25,7 @@
 - [Bill of Materials](#bill-of-materials)
   - [Hardware Components](#hardware-components)
   - [Software](#software)
-    - [💰 Total Cost: ~₹15,577/-](#-total-cost-15577-)
+    - [💰 Total Cost: ~₹15,777/-](#-total-cost-15777-)
   - [Fabrication Options](#fabrication-options)
     - [Option 1: Full 3D Printing](#option-1-full-3d-printing)
     - [Option 2: Hybrid (Recommended)](#option-2-hybrid-recommended)
@@ -59,7 +59,7 @@ This repository contains the Bill of Materials (BOM) for the RIO robot hardware 
 | 17 | M3 Nuts   | Nylock | Omrook | 20 | ₹25 | [Link](https://omrook.com/fasteners/nut/nyloc-nut/3mm-nyloc-nut-m3/) |
 | 18 | Mobile Mount | Mobile Holder with Adjustable Clamp | Amazon | 1 | ₹195 | [Link](https://www.amazon.in/gp/product/B08W1KX225/ref=ppx_yo_dt_b_asin_title_o02_s01?ie=UTF8&th=1) |
 | 19 | Mobile Ball Joint | Universal 1/4" Screw Swivel Ball Head Tripod Mount | Amazon | 1 | ₹200 | [Link](https://www.amazon.in/gp/product/B0BCFPNFCF/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&th=1) |
-| 20 | Chassis   | Laser Cutting(or)3D Printed Parts | - | - | ₹300 | -  |
+| 20 | Chassis   | Laser Cutting(or)3D Printed Parts | - | - | ₹500 | -  |
 | 21 | PCB       | Custom PCB | Botforge | 1 | ₹2499 | Comming Soon |
 
 ## Software
@@ -71,7 +71,7 @@ This repository contains the Bill of Materials (BOM) for the RIO robot hardware 
 
 <div align="center">
 
-### 💰 Total Cost: ~₹15,577/-
+### 💰 Total Cost: ~₹15,777/-
 
 </div>
 
