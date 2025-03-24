@@ -1,8 +1,4 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/🚀%20COMING%20SOON-brightgreen?style=for-the-badge" width="300" alt="Coming Soon"/>
-</p>
-
-<p align="center">
     <img src="https://img.shields.io/badge/ROS2-Iron-blue" alt="ROS2"/>
     <img src="https://img.shields.io/badge/license-MIT-blue" alt="License"/>
     <img src="https://img.shields.io/badge/platform-Ubuntu%2022.04-orange" alt="Platform"/>
@@ -65,7 +61,7 @@ This repository contains the Bill of Materials (BOM) for the RIO robot hardware 
 ## Software
 | Component | Description | Store | License | Cost | Link |
 |-----------|-------------|--------|---------|---------| ---------|
-| **RIO Mobile App** | Android application for robot control and sensor integration | Play Store | Single User | ₹999  | Comming Soon |
+| **RIO Mobile App** | Android application for robot control and sensor integration | Play Store | Single User | ₹990  |  [Link](https://play.google.com/store/apps/details?id=com.botforge.rio) |
 
 > Note: The RIO Mobile App is not a required component for operating the robot, but it enables the use of smartphone sensors and transforms your robot into a companion robot with advanced features.
 
