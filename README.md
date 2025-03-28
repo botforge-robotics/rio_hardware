@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/ROS2-Iron-blue" alt="ROS2"/>
+    <img src="https://img.shields.io/badge/ROS2-humble-blue" alt="ROS2"/>
     <img src="https://img.shields.io/badge/license-MIT-blue" alt="License"/>
     <img src="https://img.shields.io/badge/platform-Ubuntu%2022.04-orange" alt="Platform"/>
     <img src="https://img.shields.io/badge/Hardware-v1.2-red" alt="Hardware"/>
@@ -21,10 +21,11 @@
 - [Bill of Materials](#bill-of-materials)
   - [Hardware Components](#hardware-components)
   - [Software](#software)
-    - [💰 Total Cost: ~₹15,777/-](#-total-cost-15777-)
+    - [💰 Total Cost: ~₹14,269/-](#-total-cost-14269-)
   - [Fabrication Options](#fabrication-options)
     - [Option 1: Full 3D Printing](#option-1-full-3d-printing)
     - [Option 2: Hybrid (Recommended)](#option-2-hybrid-recommended)
+  - [PCB Schematic](#pcb-schematic)
   - [Related Repositories](#related-repositories)
   - [🤝 Contributing](#-contributing)
 
@@ -55,8 +56,8 @@ This repository contains the Bill of Materials (BOM) for the RIO robot hardware 
 | 17 | M3 Nuts   | Nylock | Omrook | 20 | ₹25 | [Link](https://omrook.com/fasteners/nut/nyloc-nut/3mm-nyloc-nut-m3/) |
 | 18 | Mobile Mount | Mobile Holder with Adjustable Clamp | Amazon | 1 | ₹195 | [Link](https://www.amazon.in/gp/product/B08W1KX225/ref=ppx_yo_dt_b_asin_title_o02_s01?ie=UTF8&th=1) |
 | 19 | Mobile Ball Joint | Universal 1/4" Screw Swivel Ball Head Tripod Mount | Amazon | 1 | ₹200 | [Link](https://www.amazon.in/gp/product/B0BCFPNFCF/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&th=1) |
-| 20 | Chassis   | Laser Cutting(or)3D Printed Parts | - | - | ₹500 | -  |
-| 21 | PCB       | Custom PCB | Botforge | 1 | ₹2499 | Comming Soon |
+| 20 | Chassis   | Laser Cutting/3D Printed Parts | self | - | ₹400 | [Build Your Own](#fabrication-options)  |
+| 21 | PCB       | Custom PCB | self | 1 | ₹1000 | [Build Your Own](#pcb-schematic) |
 
 ## Software
 | Component | Description | Store | License | Cost | Link |
@@ -67,7 +68,7 @@ This repository contains the Bill of Materials (BOM) for the RIO robot hardware 
 
 <div align="center">
 
-### 💰 Total Cost: ~₹15,777/-
+### 💰 Total Cost: ~₹14,269/-
 
 </div>
 
@@ -137,6 +138,13 @@ For better durability and professional finish, you can use a combination of lase
   - [`ws2812b_holder_left.stl`](./3dPrinting/ws2812b_holder_left.stl) & [`ws2812b_holder_right.stl`](./3dPrinting/ws2812b_holder_right.stl) - RGB LED mounting brackets
 
 > Note: The hybrid approach (Option 2) is recommended for better durability and professional appearance. However, full 3D printing is perfectly viable for prototyping or if laser cutting is not available.
+
+## PCB Schematic
+<p align="center">
+    <img src="./schematic/schematic_cb_v2.jpg" width="95%" alt="PCB Schematic"/>
+</p>
+
+You can download the full schematic as a PDF: [Download Schematic PDF](./schematic/schematic_cb_v2.pdf)
 
 ## Related Repositories
 - 🔧 [RIO Firmware](https://github.com/botforge-robotics/rio_firmware) - RIO Controller Micro-Ros Code
